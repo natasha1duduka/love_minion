@@ -1,0 +1,27 @@
+p img{
+    width: 250px;
+    height: 280px;
+    border: 5px double darkgoldenrod;
+}
+
+h5 img{
+    width: 750px;
+    height: 450px;
+}
+
+td p{
+    color: rgb(3, 7, 247);
+}
+
+h1{
+    text-align: center;
+    color: rgb(231, 231, 13);
+    font-size: 80px;
+    border: 10px dotted lightblue;
+}
+
+h2{
+    text-align: center;
+    color: rgb(20, 32, 211);
+    font-size: 50px; 
+}
